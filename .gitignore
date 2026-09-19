@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+.pytest_cache/
+.mypy_cache/
+modules/10-exceptions-and-files/sample_notes.txt
+modules/10-exceptions-and-files/sample_data.json
+modules/17-stdlib-essentials/out/
+projects/expenses.json
+*.egg-info/
+dist/
+build/
+hello.py
